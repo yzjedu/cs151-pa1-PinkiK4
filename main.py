@@ -6,6 +6,7 @@
 # The purpose of this code is to generate an adventure game that prompts the user and makes decisions based on it's input
 
 # Asks user to input their name
+
 print('Hello Challenger!, What is your name?')
 user_name = input()
 
